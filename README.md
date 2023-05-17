@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jacob-gillan)
 
-I'm a experienced engineer with a passion for developing applications. Well-versed in technology and writing code to create reliable systems. Confident communicator, strategic thinker, invative creator to develop software that is customized to meet a companies needs and further its success
+I'm an experienced engineer with a passion for developing applications. I'm well-versed in technology and writing code to create reliable systems. I'm a confident communicator, strategic thinker, and innovative creator, aiming to develop software that is customized to meet a company's needs and further its success.
 
 ## Tech Stack:
 
