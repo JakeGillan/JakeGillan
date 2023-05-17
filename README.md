@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Jake Gillan
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jakegillan)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jakegillan)
+
+Experienced software engineer passionate about coding and problem-solving.
+
+## Tech Stack
+
+- TypeScript
+- JavaScript
+- React
+- React Router
+- Redux
+- Node.js
+- Express.js
+- Postman
+- MongoDB
+- Postgres
+- GraphQL
+- Webpack
+- Vite
+- JWT
+- Docker
+- AWS
+- CSS3
+- SASS
+- Tailwind CSS
+- HTML5
+- Markdown
+- Three.js
+- Git
+- NPM
+- Yarn
+- ESLint
+- Jest
+- Testing-Library
+- Cypress
+
+Feel free to reach out if you have any questions or collaboration opportunities!
